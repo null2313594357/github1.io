@@ -1,4 +1,3 @@
-# github1.io
 <!DOCTYPE html>
 <meta charset="utf-8">
 <link href="forIndex.css" rel="stylesheet" type="text/css">
